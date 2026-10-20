@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Abinav Manoj 👋
 
-<!--
-**Abinavmanoj/Abinavmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer | Machine Learning | Computer Vision | AI Agents
 
-Here are some ideas to get you started:
+I'm passionate about building practical AI solutions that solve real-world problems. I enjoy learning, experimenting with machine learning models, developing AI-powered applications, and exploring intelligent robotics systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🤖 AutoStream AI Sales Agent
+An AI-powered sales agent exploring conversational AI, workflow orchestration, and retrieval-augmented generation (RAG).
+
+- Tech: Python, LangGraph, LLMs, RAG
+- [View Repository](https://github.com/Abinavmanoj/AutoStream-AI-Sales-Agent)
+
+### 🩻 Chest X-ray AI Project
+An educational computer vision project exploring AI-based chest X-ray image classification.
+
+- Focus: Computer Vision, Deep Learning, Image Classification
+- [View Repository](https://github.com/Abinavmanoj/xray-project)
+
+### 🎬 Netflix Recommendation System
+A recommendation system project exploring personalized content recommendations using machine learning.
+
+- Focus: Recommendation Systems, Data Processing, Machine Learning
+- Add your repository link here once verified.
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python
+- **AI/ML:** Machine Learning, Deep Learning, Computer Vision
+- **AI Applications:** LLMs, RAG, AI Agents
+- **Tools:** Git, GitHub, Streamlit
+- **Currently Learning:** Advanced AI Engineering and Robotics
+
+## 🎯 Current Goals
+
+- Build practical, end-to-end AI projects.
+- Improve model evaluation, testing, and deployment skills.
+- Explore the integration of AI with robotics.
+- Contribute to meaningful open-source projects.
+
+## 🤝 Connect With Me
+
+- GitHub: [@Abinavmanoj](https://github.com/Abinavmanoj)
+- LinkedIn: Add your LinkedIn profile URL here.
+
+---
+
+*Always learning. Always building. Turning ideas into intelligent solutions.*
