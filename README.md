@@ -42,7 +42,7 @@ A recommendation system project exploring personalized content recommendations u
 ## 🤝 Connect With Me
 
 - GitHub: [@Abinavmanoj](https://github.com/Abinavmanoj)
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn: https://www.linkedin.com/in/abinav-manoj-764855320/?isSelfProfile=true
 
 ---
 
