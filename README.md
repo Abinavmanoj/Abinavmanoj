@@ -1,6 +1,6 @@
 # Hi, I'm Abinav Manoj 👋
 
-### Aspiring AI Engineer | Machine Learning | Computer Vision | AI Agents
+### Aspiring AI Engineer | Machine Learning | Robotics Engineering | AI Agents | Gen AI
 
 I'm passionate about building practical AI solutions that solve real-world problems. I enjoy learning, experimenting with machine learning models, developing AI-powered applications, and exploring intelligent robotics systems.
 
